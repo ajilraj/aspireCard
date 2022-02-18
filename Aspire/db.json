@@ -1,0 +1,12 @@
+{
+  "cardData": {
+    "id": 1,
+    "name": "Mark Henry",
+    "balance": "3000",
+    "cardNumber": "564734112413",
+    "thru": "12/20",
+    "cvv": "546",
+    "year": "2020",
+    "spendAmount": "$345"
+  }
+}
